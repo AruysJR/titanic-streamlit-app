@@ -15,5 +15,4 @@ This is a Streamlit web app that predicts whether a Titanic passenger **would ha
 - `app.py` – The main Streamlit app script
 - `titanic_model.pkl` – The trained Titanic classification model
 - `requirements.txt` – List of required Python packages
-- 
 [Live Demo](https://titanic-app-1.streamlit.app/)
